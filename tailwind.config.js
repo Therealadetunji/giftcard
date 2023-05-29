@@ -18,8 +18,10 @@ export default {
     },
     fontWeight: {
       normal: '400',
+      medium: '500',
       semibold: '600',
       bold: '700',
+      bolder: '800',
     }, 
     fontSize: {
       "fs-logo": "24px",
@@ -30,7 +32,9 @@ export default {
       "fs-brand": "48px",
       "fs-feature": "28px",
       "fs-heading": "38px",
-      "fs-paragraph2": "22px"
+      "fs-paragraph2": "22px",
+      "fs-footer": "12px",
+      "fs-footer2": "14px"
     },
     borderWidth: {
       DEFAULT: '1px',
